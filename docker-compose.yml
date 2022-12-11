@@ -4,10 +4,10 @@ services:
     environment:
       # ⚠️ Required:
       # Change this to your host's public address
-      - WG_HOST=raspberrypi.local
+      - WG_HOST=wg.alexunderboots.ru
 
       # Optional:
-      - PASSWORD=alexunderboots
+      - PASSWORD=Nvdfh913
       - WG_PORT=59218
       - WG_DEFAULT_ADDRESS=10.66.66.x
       - WG_DEFAULT_DNS=9.9.9.9
